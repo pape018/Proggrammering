@@ -1,0 +1,13 @@
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\bin\Debug\netcoreapp3.1\Pavel.exe
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\bin\Debug\netcoreapp3.1\Pavel.deps.json
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\bin\Debug\netcoreapp3.1\Pavel.runtimeconfig.json
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\bin\Debug\netcoreapp3.1\Pavel.runtimeconfig.dev.json
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\bin\Debug\netcoreapp3.1\Pavel.dll
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\bin\Debug\netcoreapp3.1\Pavel.pdb
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\obj\Debug\netcoreapp3.1\Pavel.csprojAssemblyReference.cache
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\obj\Debug\netcoreapp3.1\Pavel.AssemblyInfoInputs.cache
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\obj\Debug\netcoreapp3.1\Pavel.AssemblyInfo.cs
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\obj\Debug\netcoreapp3.1\Pavel.csproj.CoreCompileInputs.cache
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\obj\Debug\netcoreapp3.1\Pavel.dll
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\obj\Debug\netcoreapp3.1\Pavel.pdb
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\Pavel\Pavel\obj\Debug\netcoreapp3.1\Pavel.genruntimeconfig.cache
