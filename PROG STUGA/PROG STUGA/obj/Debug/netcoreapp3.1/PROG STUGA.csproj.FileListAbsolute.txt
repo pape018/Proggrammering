@@ -1,0 +1,4 @@
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\PROG STUGA\PROG STUGA\obj\Debug\netcoreapp3.1\PROG STUGA.csprojAssemblyReference.cache
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\PROG STUGA\PROG STUGA\obj\Debug\netcoreapp3.1\PROG STUGA.AssemblyInfoInputs.cache
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\PROG STUGA\PROG STUGA\obj\Debug\netcoreapp3.1\PROG STUGA.AssemblyInfo.cs
+C:\Users\pavel.petreski\Documents\GitHub\Proggrammering\PROG STUGA\PROG STUGA\obj\Debug\netcoreapp3.1\PROG STUGA.csproj.CoreCompileInputs.cache
